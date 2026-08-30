@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Studio Ghibli Nature Banner (Isao Takahata) -->
-<img src="./assets/ghibli_nature.gif" width="620" alt="Ghibli Nature Banner" />
+<!-- Studio Ghibli Nature Banner (Direct GIPHY Link) -->
+<img src="https://media.giphy.com/media/nZdJaBIcuYd7q/giphy.gif" width="620" alt="Ghibli Nature Banner" />
 
 <br><br>
 
