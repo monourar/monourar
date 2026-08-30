@@ -1,64 +1,45 @@
 <div align="center">
 
-<!-- Studio Ghibli Nature Banner -->
-<img src="https://media.giphy.com/media/nZdJaBIcuYd7q/giphy.gif" width="620" alt="Ghibli Banner" />
+<img src="https://media.giphy.com/media/nZdJaBIcuYd7q/giphy.gif" width="620" />
 
 <br><br>
 
-# محمد نور — Mohamed Nour
-<sub>Algeria 🇩🇿 &nbsp;•&nbsp; Visual Craft, AI & Creative Tech</sub>
-
-<br>
+### I design cool stuff when I'm bored • Tech, Design & AI Explorer
 
 <p align="center">
-  <a href="mailto:monourar@gmail.com"><img src="https://img.shields.io/badge/Email-monourar@gmail.com-0d1117?style=flat&logo=gmail&logoColor=ea4335" alt="Email" /></a>
+  <a href="mailto:monourar@gmail.com"><img src="https://img.shields.io/badge/monourar@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335" alt="Email" /></a>
   &nbsp;
-  <a href="https://instagram.com/monourar" target="_blank"><img src="https://img.shields.io/badge/Instagram-@monourar-0d1117?style=flat&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>
+  <a href="https://instagram.com/monourar" target="_blank"><img src="https://img.shields.io/badge/@monourar-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>
 </p>
 
 </div>
 
 ---
 
-### `01` / The Persona
-
-I spend my time at the intersection of **visual design**, **generative AI**, and **internet culture**. 
-
-Not a traditional software engineer — more of a visual creator and tech tinkerer who loves good typography, obsessively tweaks layouts in Figma & Photoshop, and tests AI workflows to see what's actually possible.
-
-```
-location      : Algeria (GMT+1)
-curiosity     : AI models • typography • hardware design
-current loop  : 2 AM tech breakdowns & video essays on YouTube
-status        : exploring & creating
-```
+### ✦ What I'm into:
+- 🤖 **AI & Creative Tech** — Claude, ChatGPT, Midjourney & AI coding tools (Cursor / Replit).
+- 📱 **Mobile & UI** — Experimenting with Expo, React & design systems.
+- 🎨 **Visual Craft** — Figma, Photoshop, typography & aesthetics.
 
 ---
 
-### `02` / Selected Palettes & Tools
+### ✦ Tools & Stack:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr,html,css,js,ts,react,tailwind,vscode,github,replit,vercel" />
+</p>
 
-```
-[ Design ]      Figma • Adobe Photoshop • Illustrator • Typography & Layout
-[ Machine ]     Claude • ChatGPT • Midjourney • Generative Prompts & Agents
-[ Space ]       HTML/CSS • Markdown • Notion • VS Code
-```
+<p align="left">
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_AI-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Midjourney-000000?style=flat-square&logo=midjourney&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor_AI-000000?style=flat-square&logo=visualstudiocode&logoColor=white" />
+</p>
 
-<br>
+---
 
+### ✦ Activity:
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai,html,css,js,vscode,notion&theme=dark" alt="Tools" />
-</div>
-
----
-
-### `03` / Current Rabbit Holes
-
-- 🍃 **Bilingual Layout Ergonomics** — Pairing Arabic script (`Thmanyah` / `IBM Plex Arabic`) with modern Latin sans-serifs.
-- ⚡ **AI-First Creative Workflows** — Combining Midjourney prompts with Photoshop compositing for tactile aesthetics.
-- 📺 **Curated Tech & Culture** — Deep dives into computing history, Dieter Rams industrial design, and next-gen hardware.
-
----
-
-<div align="center">
-  <sub>Say hello or share an interesting rabbit hole: <a href="mailto:monourar@gmail.com">monourar@gmail.com</a> &bull; <a href="https://instagram.com/monourar">@monourar</a></sub>
+  <img src="https://github-readme-stats.vercel.app/api?username=monourar&show_icons=true&title_color=F5F3EB&text_color=9A968E&icon_color=1DB954&bg_color=0d1117&border_color=21262d&hide_border=false" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monourar&layout=compact&title_color=F5F3EB&text_color=9A968E&bg_color=0d1117&border_color=21262d&hide_border=false" width="49%" />
 </div>
