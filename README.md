@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Atmospheric / Cinematic Banner -->
-<img src="https://raw.githubusercontent.com/cat-milk/Anime-GIF-Banners/master/banners/lain_banner.gif" width="620" alt="Banner" />
+<!-- Studio Ghibli Nature Banner (Isao Takahata) -->
+<img src="./assets/ghibli_nature.gif" width="620" alt="Ghibli Nature Banner" />
 
 <br><br>
 
